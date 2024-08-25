@@ -1,3 +1,5 @@
+![ZDE_LKDN](https://github.com/user-attachments/assets/9ae24826-51c5-4ee1-b40b-593dd744fe82)
+
 # 💫 About Me:
 👋 Hi! I'm Cris,<br><br>I'm a Front-End Developer with a strong background in graphic design and illustration 🎨. After years of working on visual projects, I decided to take my passion for design to the next level by diving into web development. Now, I focus on creating user interfaces that are not only visually appealing but also functional and intuitive 🖥️.<br><br>I have experience with technologies like **HTML, CSS, JavaScript**, and modern frameworks like **React**. Plus, tools like **Figma** and **Illustrator** allow me to bring my creativity to life in projects that blend the best of design and technology.<br><br>I love leading projects and working with teams, coordinating sprints and ensuring each stage runs smoothly. If you're looking for someone who can transform ideas into impactful and unique digital experiences, *I'm ready for the challenge!* ✨<br>
 <br>
